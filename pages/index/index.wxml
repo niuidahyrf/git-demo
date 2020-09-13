@@ -1,0 +1,35 @@
+<!--pages/index/index.wxml-->
+<swiper autoplay="{{true}}" indicator-color="#bfbfbf" indicator-active-color="#3963BC" interval="5000" indicator-dots="{{true}}}" autoplay="{{true}}" circular="{{true}}">
+  <block wx:for="{{bannerList}}" wx:key="index">
+    <swiper-item>
+        <image mode="aspectFill" src="{{item.image}}"></image>
+    </swiper-item>
+  </block>
+</swiper>
+<l-notice-bar l-class="announce"
+              bind:lintap="enterAnnounce"
+              front-icon-name="notification" 
+              show="{{true}}" 
+              type="still" 
+              front-icon-size="30"
+              front-icon-color="#3683D6"
+              speed="2000">
+    我是通告栏我是通告栏我是通告栏我是通告栏
+</l-notice-bar>
+
+<view class="mark">
+  <view class="m-block"></view>
+  <view class="m-con">每日推荐</view>
+</view>
+
+<m-list></m-list>
+
+
+
+
+
+
+
+
+
+

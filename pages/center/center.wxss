@@ -1,0 +1,36 @@
+/* pages/center/center.wxss */
+
+.header{
+  background: #dfedff;
+  height:380rpx;
+  overflow: hidden;
+}
+.info{
+  background:#fff;
+  width:90%;
+  height:280rpx;
+  border-radius: 4rpx;
+  box-shadow: 0 0 2rpx rgba(209, 203, 203, 0.2);
+  margin:50rpx auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.info .in-avatar{
+  margin-left: 30rpx;
+}
+.info .in-login{
+  border-radius: 30rpx 0 0 30rpx !important;
+  height:50rpx;
+  line-height:50rpx;
+  width:140rpx;
+}
+.main{
+  margin-top:60rpx;
+}
+.main .choose{
+  background: #fff;
+  padding: 0 20rpx;
+}
+

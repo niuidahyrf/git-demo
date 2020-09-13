@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "l-grid":"../../miniprogram_npm/lin-ui/grid",
+    "l-grid-item":"../../miniprogram_npm/lin-ui/grid-item"
+  }
+}

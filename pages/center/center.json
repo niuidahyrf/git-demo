@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "l-avatar":"../../miniprogram_npm/lin-ui/avatar",
+    "l-button":"../../miniprogram_npm/lin-ui/button",
+    "l-list":"../../miniprogram_npm/lin-ui/list"
+  }
+}

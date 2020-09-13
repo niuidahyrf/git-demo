@@ -1,0 +1,15 @@
+{
+  "name": "questions",
+  "version": "1.0.0",
+  "description": "面试题小程序",
+  "main": "app.js",
+  "dependencies": {
+    "lin-ui": "~0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mamba",
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+<!--pages/category/category.wxml-->
+
+<view class="cate">
+  <block wx:for="{{category}}" wx:key="index">
+    <view class="cate-item">
+      <image src="{{item.image}}" mode="aspectFill"></image>
+      <text>{{item.name}}</text>
+    </view>
+  </block>
+</view>

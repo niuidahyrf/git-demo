@@ -1,0 +1,32 @@
+/* pages/index/index.wxss */
+swiper{
+  height:440rpx;
+}
+swiper-item image{
+  height:440rpx;
+  width:100%;
+}
+.announce{
+  margin:20rpx 0;
+  border-radius: 0rpx !important;
+}
+.mark{
+  height:80rpx;
+  background: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 28rpx;
+  margin-top: 30rpx;
+}
+.mark .m-block{
+  width:10rpx;
+  height:40rpx;
+  background: #3963BC;
+  border-radius: 0rpx 4rpx 4rpx 0rpx;
+}
+.mark .m-con{
+  color:#3963BC;
+  padding-left:20rpx;
+}
+

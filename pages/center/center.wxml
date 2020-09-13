@@ -1,0 +1,24 @@
+<!--pages/center/center.wxml-->
+
+<view class="center">
+  <view class="header">
+    <view class="info">
+      <l-avatar l-class="in-avatar" open-data="{{['userAvatarUrl','userNickName']}}" />
+      <l-button l-class="in-login" size="mini">登录</l-button>
+    </view>
+  </view>
+  <view class="main">
+    <view class="choose">
+      <l-list icon-size="36" title="我的收藏" icon="notification" tag-position="right"/>
+      <l-list icon-size="36" title="意见反馈" icon="notification" tag-position="right"/>
+      <l-list icon-size="36" title="关于我们" icon="notification" tag-position="right"/>
+      <l-list icon-size="36" title="联系我们" icon="notification" tag-position="right"/>
+      <l-list icon-size="36" title="帮助中心" icon="notification" tag-position="right"/>
+    </view>
+  </view>
+
+  <!-- <view class="logo">
+    <image src="" mode="aspectFill"></image>
+  </view> -->
+
+</view>

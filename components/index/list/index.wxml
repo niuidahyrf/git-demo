@@ -1,0 +1,44 @@
+<!--components/index/list/index.wxml-->
+<view class="article">
+  <view class="items">
+    <image src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" mode="aspectFill"></image>
+    <text class="desc">描述描述描述描述描述描述描述描述</text>
+    <l-button size="mini" l-class="answer">查看更多</l-button>
+  </view>
+  <view class="items">
+    <image src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" mode="aspectFill"></image>
+    <text class="desc">描述描述描述描述描述描述描述描述</text>
+    <l-button size="mini" l-class="answer">查看更多</l-button>
+  </view>
+  <view class="items">
+    <image src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" mode="aspectFill"></image>
+    <text class="desc">描述描述描述描述描述描述描述描述</text>
+    <l-button size="mini" l-class="answer">查看更多</l-button>
+  </view>
+  <view class="items">
+    <image src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" mode="aspectFill"></image>
+    <text class="desc">描述描述描述描述描述描述描述描述</text>
+    <l-button size="mini" l-class="answer">查看更多</l-button>
+  </view>
+  <view class="items">
+    <image src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" mode="aspectFill"></image>
+    <text class="desc">描述描述描述描述描述描述描述描述</text>
+    <l-button size="mini" l-class="answer">查看更多</l-button>
+  </view>
+  <view class="items">
+    <image src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" mode="aspectFill"></image>
+    <text class="desc">描述描述描述描述描述描述描述描述</text>
+    <l-button size="mini" l-class="answer">查看更多</l-button>
+  </view>
+  <view class="items">
+    <image src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" mode="aspectFill"></image>
+    <text class="desc">描述描述描述描述描述描述描述描述</text>
+    <l-button size="mini" l-class="answer">查看更多</l-button>
+  </view>
+  <view class="items">
+    <image src="https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" mode="aspectFill"></image>
+    <text class="desc">描述描述描述描述描述描述描述描述</text>
+    <l-button size="mini" l-class="answer">查看更多</l-button>
+  </view>
+  
+</view>
